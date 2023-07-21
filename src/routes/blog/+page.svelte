@@ -19,6 +19,7 @@
                             <h2 class="card-title">{post.title}</h2>
                             <p>{post.description}</p>
                             <div class="card-actions justify-end">
+                                <!-- svelte-ignore a11y-invalid-attribute -->
                                 <a href="#" class="underline mr-2">Read more ></a>
                             </div>
                         </div>
