@@ -1,0 +1,20 @@
+---
+title: Second Post
+description: This is my second post
+date: '2023-07-21'
+cover: https://source.unsplash.com/random/720x405?sig=002
+categories:
+    - Personal
+tags:
+    - Svelte
+    - SvelteKit
+    - Markdown
+    - MDsveX
+published: true
+---
+
+## Svelte
+
+Media inside **static** folder is served from `/`.
+
+![Svelte](favicon.png)

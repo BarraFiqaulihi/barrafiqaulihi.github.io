@@ -1,0 +1,23 @@
+---
+title: First Post
+description: This is my first post
+date: '2023-07-21'
+cover: https://source.unsplash.com/random/720x405?sig=001
+categories:
+    - Personal
+tags:
+    - SvelteKit
+    - Markdown
+    - MDsveX
+published: true
+---
+
+## MDsveX
+
+Hello there! 👋
+
+```ts
+function greet(name: string) {
+    console.log(`Hello ${name}! 👋`);
+}
+```
